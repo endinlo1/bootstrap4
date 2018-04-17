@@ -11,4 +11,4 @@ ctx.clearRect(45,45,60,60);
 
 //rysujemy obramowanie drugiego kwadratu
 //x, y, width, height
-//ctx.strokeRect(50,50,50,50);
+ctx.strokeRect(50,50,50,50);
